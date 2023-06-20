@@ -6,11 +6,11 @@ interface NavbarProps {
 }
 
 export const Navbar = ({ className }: NavbarProps) => {
-
+    const plug = '/';
     return (
         <div className={classNames(cls.Navbar, {}, [className])}>
             <div className={cls.links}>
-                /
+                {plug}
             </div>
         </div>
     );
