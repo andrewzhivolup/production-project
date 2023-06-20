@@ -6,8 +6,10 @@
   "новый перевод": "new translete",
   "Страница не найдена": "Page not found",
   "Произошла непредвиденная ошибка": "An unexpected error has occurred",
-  "Обновить страницу": "Refresh the page",
+  "Обновить страницу": "Reload page",
   "throw error": "throw error",
   "Главная": "Home",
-  "О сайте": "About"
+  "О сайте": "About us",
+  "Переключить": "Switch",
+  "Короткий язык": "En"
 }
