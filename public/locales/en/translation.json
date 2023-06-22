@@ -13,5 +13,7 @@
   "Переключить": "Switch",
   "Короткий язык": "En",
   "Войти": "Sign in",
-  "Рыба текст": "Fish text"
+  "Рыба текст": "Fish text",
+  "increment": "increment",
+  "decrement": "decrement"
 }
