@@ -15,5 +15,7 @@
   "Войти": "Sign in",
   "Рыба текст": "Fish text",
   "increment": "increment",
-  "decrement": "decrement"
+  "decrement": "decrement",
+  "Введите логин": "Enter username",
+  "Введите пароль": "Enter пароль"
 }
